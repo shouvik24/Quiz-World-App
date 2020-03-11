@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz World</string>
+    <string-array name="values">
+        <item>3rd June</item>
+        <item>4th June</item>
+        <item>5th June</item>
+        <item>6th June</item>
+    </string-array>
+    <string-array name="values1">
+        <item>23rd January 1897</item>
+        <item>24th January 1897</item>
+        <item>25th January 1897</item>
+        <item>26th January 1897</item>
+    </string-array>
+</resources>
